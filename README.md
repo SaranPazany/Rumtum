@@ -1,14 +1,9 @@
 # RUMTUM
 
-This template should help get you started developing with Vue 3 in Vite.
+# WELCOME TO RUMTUM PROJECT
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
+Rumtum is a modern e-commerce website built with Vue.js, featuring a wide range of products, user accounts, and a shopping cart system.
+The project includes various components such as product listings, user authentication, and a responsive design.
 
 ## Project Setup
 
